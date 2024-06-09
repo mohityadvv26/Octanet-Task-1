@@ -1,4 +1,4 @@
-Basic Landing Page Project
+**Basic Landing Page Project**
 Objective
 This project is part of an internship task aimed at familiarizing with the basics of web development and evaluating creativity and understanding of user-centric design principles.
 
